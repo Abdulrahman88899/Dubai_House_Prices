@@ -2,13 +2,15 @@
 
 This project predicts **real estate prices in Dubai** using **XGBoost** and visualizes data with **Streamlit & Folium**.
 
+### 📍 Interactive Map Screenshot
+![Housing Price Map](Image.PNG)
+
 ## 🚀 Features
 - **Interactive Map** 📍 with housing locations & price filtering
 - **Price Prediction** using **XGBoost**
-- **SHAP Interpretability** 🔍 to explain model decisions
-- **Dark Mode** 🖤 for better UI
 
-## 🛠 Installation
+
+### 🛠 Installation
 
 ### 1️⃣ Clone the repository
 ```bash
